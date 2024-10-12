@@ -1,3 +1,2 @@
-# Calculator
-<br>
+# Calculator <br>
 Author - Hariqul Mia Titu
